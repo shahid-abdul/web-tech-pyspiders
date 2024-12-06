@@ -1,0 +1,92 @@
+/* body {
+  border: 2px rgb(166, 255, 0) solid;
+  padding: 50px 0px 50px 40%;
+  color: rgb(68, 255, 0);
+  background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/m-series/M8-competition/m8-competition-coupe-header.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  image-resolution: auto;
+  backdrop-filter: blur(5px);
+  margin: 0;
+} */
+
+/* .first-section {
+  height: 700px;
+  width: 700px;
+  background-color: rgb(237, 237, 237);
+  border: 5px solid rgb(13, 43, 241);
+  margin: auto;
+  margin-top: 150px;
+  border-radius: 100px 50px 100px 50px;
+  border-radius: 100px;
+  border-radius: 50%;
+  border-radius: 100px 100px/50px 10px;
+  outline: 10px rgb(12, 233, 211) solid;
+
+  outline-offset: 10px;
+  border-top-color: rgb(255, 119, 0);
+  border-bottom-color: rgb(253, 6, 170);
+  border-left-color: rgb(84, 83, 83);
+  border-right-color: rgb(150, 80, 255);
+
+  box-shadow: 1px 1px 40px 10px black inset;
+  border-radius: 40px;
+
+  box-shadow: 5px 5px 10px red, 10px 10px 10px rgb(8, 255, 8),
+    15px 15px 10px blue;
+  box-shadow: 15px 15px 10px red, -15px -15px 10px blue;
+  border-radius: 30px;
+} */
+
+/* .heading {
+  padding: 200px 0px 100px 150px;
+  font-size: 100px;
+  color: rgb(84, 103, 166);
+  text-shadow: 4px 4px 6px black;
+}
+
+.box {
+  height: 700px;
+  width: 700px;
+  border-radius: 20px;
+  border: solid;
+}
+
+.item-1 {
+  background-color: darkorchid;
+  margin-top: 50px;
+}
+
+.item-2 {
+  background-color: bisque;
+  margin-top: 50px;
+}
+
+#item-1-head {
+  color: rgb(255, 153, 0);
+}
+
+input[type="text"] {
+  margin: 10px 10px 10px 10px;
+  height: 35px;
+  width: 35%;
+  border: 2px rgb(255, 0, 0) solid;
+}
+
+input[type="password"] {
+  margin: 10px 10px 10px 10px;
+  height: 35px;
+  width: 35%;
+  border: 2px rgb(12, 12, 239) solid;
+} */
+
+body {
+  background-image: url("https://bimmerlife.com/wp-content/uploads/2019/09/Mint-Green-M8-Competition-Coupe.jpeg");
+  background-size: cover;
+}
+
+div {
+  height: 165px;
+  width: 100%;
+  background-color: rgb(9, 234, 238);
+}
